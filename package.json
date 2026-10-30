@@ -6,7 +6,8 @@
     "dev": "bun run --watch src/index.ts"
   },
   "dependencies": {
-    "elysia": "latest"
+    "elysia": "latest",
+    "xsai": "^1.0.0-beta.4"
   },
   "devDependencies": {
     "bun-types": "latest"
